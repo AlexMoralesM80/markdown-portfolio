@@ -1,1 +1,1 @@
-[Imagen del Yaktocat](https://github.com/)
+[imagen](https://github.com/)
