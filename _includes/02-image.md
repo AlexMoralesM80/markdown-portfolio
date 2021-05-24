@@ -1,1 +1,1 @@
-[imagen](https:///github.com/)
+[texto](https://example.com)
