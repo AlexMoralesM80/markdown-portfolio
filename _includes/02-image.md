@@ -1,1 +1,1 @@
-![Imagen del Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Imagen del Yaktocat](https://www.nebulova.es/blog/prediccion-machine-learning-python)
